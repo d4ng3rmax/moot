@@ -1,0 +1,3 @@
+rootProject.name = 'moot'
+
+include ':app'
